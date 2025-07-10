@@ -1,11 +1,13 @@
 import React from 'react'
 import './globals.css'
 import Counter from './Counter'
+import Input from './Input'
 
 const App = () => {
   return (
     <div>
-      <Counter />
+      {/* <Counter /> */}
+      <Input />
     </div>
   )
 }
